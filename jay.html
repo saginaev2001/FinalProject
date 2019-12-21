@@ -1,0 +1,18 @@
+$select= mysqli_connect('localhost', 'root' , '' , cars);
+$dub = "SELECT * WHERE cars WHERE m1>40";
+$set= mysqli_query($select, $dub);
+$w1 = mysqli_num_rows($set);
+for ($i=0;$i<$w1;$i++){
+	$row= mysqli_fetch_assoc($set);
+	echo $row['name'].'<br>'
+}
+
+
+
+$q = [ 1,2,3,4,5];
+for ($i=0;$i<count($q);$i++){
+	$w=$q[$i]
+	if ($w['4']>3){
+	echo 
+}
+}
