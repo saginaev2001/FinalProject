@@ -135,17 +135,20 @@
 </div>
 <div class="qw">
 <div id="news"></div>
-<form>
-  <div>
-    <label for="choose">How do you like our website?</label>
-    <input id="choose" name="i_like" required minlength="1" maxlength="9">
+<form method="post">
+  
+    How do you like our website?<br>
+    <input type="text" name="textdata" required minlength="2" maxlength="9"><br>
+    <input type="submit" name="submit" >
     
-  </div>
-<button id="sport" class>Like please</button>
+  
 </form>
+<button id="sport" class>Like please</button>
+
 
 </div>
 </div>
+
 
 <footer>
       <div class="end">
@@ -235,3 +238,12 @@
  
   </body>
 </html>
+<?php
+  if(isset($_POST['textdata']))
+{
+$data=$_POST['textdata'];
+$fp = fopen('data.txt', 'a');
+fwrite($fp, $data);
+fclose($fp);
+}
+?>

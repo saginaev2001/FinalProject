@@ -174,6 +174,7 @@ div#slider figure {
   cursor: pointer;
   font-size: 20px;
 }
+#clear_cart{margin-bottom: 20px;}
 
 
 .wrap{
@@ -381,6 +382,7 @@ left:915px;}
 .icon29{position:absolute;
 top:2080px;
 left:1190px;}
+
 
 .set{
   padding-bottom: 25px;

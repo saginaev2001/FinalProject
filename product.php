@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-    <link rel="stylesheet" href="stylei.css">
+    <link rel="stylesheet" href="stylep.css">
     <link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -104,49 +104,86 @@
       <nav>
         <a href="file:///C:/Users/Lenovo/Desktop/newproject/index.html">Menu</a>
          > 
-        <a href="">About Company</a>
-        
+        <a href="file:///C:/Users/Lenovo/Desktop/newproject/Catalog.html">Smartphone</a>
+        >
+        <a href="file:///C:/Users/Lenovo/Desktop/newproject/product.html">Smartphone GSM Apple iPhone XS Max 256GB THX-6.5-12-4 Gold</a>
     </nav>
+
+</div>
+<div class="product">
+  <div class="iphone">
+    <img src="img/prod1.jpg" width="500px" height="500px">
   </div>
-    <div><h1>About Company</h1></div>
-    <div class="inf">
-      <img src="img/logo.jfif" width="40%"
-      height="40%">
+  <div class="run">
+    <h2>Smartphone Apple iPhone XS Max 256GB Gold</h2>
+    <h1 class="pik">Price: 619990 Tg</h1>
+    <div class="in">
+      <div class="basket">
+        <button>ADD TO CART</button>
+      </div>
+      <div class="fovarite">
+        <button>ADD TO FAVORITES</button>
+      </div>
+      
     </div>
-    <div class="inf1">
-     <img src="img/sulpak.jpg" width="45%">
-     <img class="inf2" src="img/sulpak1.jpg" width="53%"
-     height="100%">
+    <div class="dec">
+    <p class="desc1"><b>Description</b></p>
+    <p class="desc">| All characteristics</p>
   </div>
-<p>Mission-to Anticipate Customer expectations by providing first-class service! The company was founded in 2002 in Almaty. Currently, EXCALIBUR network includes 82 stores. There are 77 shops and 1 Bang & Olufsen brandshop on the territory of Kazakhstan. The total retail area is 94,320 square meters in 28 cities of the Republic. The company, which continues its active development, is open to everything new and progressive.</p>
-
-<p id="inf3">In 2016, EXCALIBUR opened the first store in Kyrgyzstan, launching simultaneously with the online store technodom.kg. today in the capital of the Kyrgyz Republic, in Bishkek, there are 4 shops.</p>
-
-<div class="rec">
-  <div class="rec1">EXCALIBUR network includes <p class="num">82</p> stores</div>
-  <div class="rec2">Total retail space <p class="num">94320</p> square meters</div>
-  <div class="rec3">More than <p class="num">60000</p> product name</div>
-  <div class="rec4">Presents more than <p class="num">700</p> leading brand</div>
+  <p>Display diagonal: 6.5 inch</p>
+  <p>Display resolution: 2688x1242</p>
+  <p>Operating system: iOS 12</p>
+  <p>Random-access memory: 4</p>
+  <p>Built-in memory: 256</p>
+  <p>The number of SIM-cards: 1</p>
+  <p>Communication standard: 4G(LTE)</p>
+  <p>Dust and moisture protection standard: IP68 </p>
 </div>
-<div class="red2">
-  <p>EXCALIBUR stores are designed with the latest trading technologies in mind and fully meet the world standards of customer service. Each EXCALIBUR store provides emotional and price zones, a clear and understandable system of informing about goods and services, an easy-to-read direction of movement on the trading floor, convenient access to goods and the ability to test any product. Customers are provided with a wide range of additional services, including various consumer lending programs.</p>
-  <p id="inf3">EXCALIBUR's trading portfolio includes more than 700 leading brands: Sony, Panasonic, Samsung, LG, Daewoo, Apple, HTC, Philips, Nokia, Canon, Nikon, Fujitsu, Bosch, Siemens, Electrolux, Indesit, Hotpoint-Ariston, Elica, Gorenje, Hansa, Zigmund & Shtain, Zanussi, Whirlpool, Beko, termex, Moulinex, Tefal, Rowenta, etc.</p>
-  <p id="inf3">The company's trading network covers the entire territory of Kazakhstan. EXCALIBUR stores operate in Astana, Almaty, Aktau, Aktobe, Atyrau, Balkhash, Zhezkazgan, Zhanaozen, Karaganda, Kapchagai, Kokshetau, Kostanay, Kyzylorda, Kulsary, Pavlodar, Petropavlovsk, Rudny, Semey, Satpayev, Taldykorgan, Taraz, Talgar, Temirtau, Turkestan, Ust-Kamenogorsk, Uralsk, Shymkent and Ekibastuz.</p>
 </div>
-<div class="qw">
-<div id="news"></div>
-<form>
-  <div>
-    <label for="choose">How do you like our website?</label>
-    <input id="choose" name="i_like" required minlength="1" maxlength="9">
+<div class="zhay"></div>
+<div class="puk">
+  <div class="puk1">
+    <h1>Main characteristic</h1>
+    <p>Series..........................iPhone XS, iphone, iPhone XS Max</p>
+<p>Model year...........................................2018</p>
+
+<h1 class="prob">Processor</h1>
+<p>Operating system...................................iOS 12</p>
+<p>Processor model................................A12 Bionic</p>
+<p>Number of cores.........................................6</p>
+<p>Processor manufacturer..............................Apple</p>
+
+
+<h1 class="prob2">SIM card</h1>
+<p>The number of SIM-cards.................................1</p>
+<p>Size of SIM card.................................Nano-SIM</p>
+</div>
+  <div class="puk2">
+    <h1>Display</h1>
+<p>Number of pixels per inch (PPI)..................................458</p>
+<p>Matrix type..............................Super Retina LCD</p>
+<p>The display resolution..........................2688x1242</p>
+<p>Display diagonal, inch................................6.5</p>
+
+<h1 class="prob1">Memory</h1>
+<p>The maximum amount of supported memory cards..................Not support</p>
+<p>Amount of Random-Access memory..........................4</p>
+<p>The amount of internal memory.........................256</p>
+
+
+<h1 class="prob">Communication</h1>
+<p>Connectors......................................Lightning</p>
+<p>Interfaces..........................Wi-Fi, NFC, Bluetooth</p>
+<p>Navigation..........................GLONASS, Galileo, GPS</p>
+<p>Communication standard...........................4G (LTE)</p>
+
+
+
     
   </div>
-<button id="sport" class>Like please</button>
-</form>
-
 </div>
 </div>
-
+<div class="zhay"></div>
 <footer>
       <div class="end">
           <div class="end2">
@@ -217,21 +254,7 @@
 
 
   </footer>
-  <script defer>
-    let myRequest = new Request("Task 1.json");
-      fetch("Task 1.json") 
-        .then(function(resp) {
-          return resp.json();
-       })
-      .then(function(data){
-        document.getElementById('sport').addEventListener('click',function () {
-          let r = document.getElementById('news');
-          document.getElementById('news').innerHTML="";
-          r.innerHTML+="<h2>Thanks<h2>";
-          r.innerHTML+=data["sport"];
-        });
-      });
-</script>
- 
+
+
   </body>
 </html>

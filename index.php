@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-    <link rel="stylesheet" href="stylea.css">
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -97,65 +97,120 @@
       <i class="far fa-user"></i>
       <i class="fas fa-shopping-basket"></i>
       <i class="far fa-heart"></i>
-    </div>
 
+      </div>
+      <!-- <base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/"> -->
+      <div class="all2">
+        <div class="first">
+          <img src="img/newyear.jfif" width="350px" height="340px">
 
-      <div class="kap">
-        <div class="kap1">
-          <img src="img/z3.webp">
-          <div class="kep">
-          <p class="kep1">New Users</p>
-          <p class="kep2">65,650</p>
         </div>
+        <div id="slider" class="slider">
+          <figure>
+          <img src="img/photo4.jpg" alt>
+          <img src="img/photo3.jpg" alt>
+          <img src="img/iphone2.jpg" alt>
+          <img src="img/watch.webp" alt>
+          <img src="img/photo5.jpg" alt>
+          </figure>
         </div>
-        <div class="kap1">
-          <img src="img/z7.webp">
-          <div class="kep">
-          <p class="kep1">New Feedbacks</p>
-          <p class="kep2">32,604</p>
+
+      </div>
+      <div class="body">
+        <div class="text">
+          Novelty
+
         </div>
-        </div>
-        <div class="kap1">
-          <img src="img/z5.png">
-          <div class="kep">
-          <p class="kep1">Employees</p>
-          <p class="kep2">17,583</p>
+        <div class="images1">
+          <div class=" btn one">
+            <img src="" alt="">
+            <p class="one1">99500</p>
+
+          </div>
+          <div class="btn two">
+            <img src="" alt="">
+            <p class="two2">13000</p>
+
+          </div>
+          <div class="btn three">
+              <img src="" alt="">
+              <p class="three3">250000</p>
+
           </div>
         </div>
-        <div class="kap1">
-          <img src="img/z6.png">
-          <div class="kep">
-          <p class="kep1">Total Sales</p>
-          <p class="kep2">61,119</p>
-        </div>
-        </div>
-      </div>
-      <div class="admin">
-        <div class="admin1">
-        <img src="img/f1.jpeg" width="25%" height="25%">
-        </div>
-        <div>
-          <p class="adl1">
-            Sagynayev Adilbek
-          </p>
-          <p>
-            Developer
-          </p>
-        </div>
-        <a href="http://localhost/tasks/tyt.php">CRUD</a>
-        
-      </div>
-      
-  <div class="adi">
-    <img class="adi1" src="img/36.png">
-    <img src="img/40.png">
-  </div>
-  <div class="adi2">
-  <img  src="img/38.png" width="90%" >
-  </div>
+        <div class="images2">
+          <div class=" btn four">
+            <img src="" alt="">
+            <p class="four4">45000</p>
 
-</div>
-       <footer>
+          </div>
+          <div class="btn five">
+            <img src="" alt="">
+            <p class="five5">20000</p>
+
+          </div>
+          <div class="btn six">
+              <img src="" alt="">
+              <p class="six6">59000</p>
+
+          </div>
+        </div>
+        <div class="text2">
+          <h2>Inspiration</h1><br>
+          <p>Wide spread produts for any taste</p>
+
+        </div>
+        <div class="super">
+          <ul class="super1">
+            <a href="http://localhost/tasks/priv/catalog.php"><li><img src="img/x1.jpg" width="90%" height="90%" alt=""></li></a>
+            <a href=""><li><img src="img/x2.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x3.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x4.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x5.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x6.jpg" width="90%" height="90%"  alt=""></li></a>
+
+          </ul>
+          <ul class="super1">
+            <a href=""><li><img src="img/x7.jpg" width="90%" height="90%" alt=""></li></a>
+            <a href=""><li><img src="img/x8.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x9.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x10.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x11.jpg" width="90%" height="90%"  alt=""></li></a>
+            <a href=""><li><img src="img/x12.jpg" width="90%" height="90%"  alt=""></li></a>
+
+          </ul>
+
+        </div>
+        <div class="text4">
+        <h1>Net-shop EXCALIBUR.COM</h1>
+
+        </div>
+        <div class="all3">
+          <div class="text3">
+            <div class="ula">
+
+  The EXCALIBUR online store is one of the projects
+  of the EXCALIBUR company, the leader of  the national
+  chain of <br> electrical and computer equipment stores in the
+  Republic of <br> Kazakhstan. If you are looking for
+  the best online store in <br> Kazakhstan - it is located at
+
+            </div>
+            <div class="ula2">
+
+              The main goal of EXCALIBUR online store is to improve the quality of life of customers. Combination of technologies of new level and tendencies of retail trade allow us to please the buyer with possibility of the most comfortable and accessible purchase of goods through the big Internet shop of equipment.
+            </div>
+          </div>
+
+        </div>
+        <div id="map" style="width: 93%; height: 250px"></div>
+
+        </div>
+
+
+    </div>
+
+    <footer>
       <div class="end">
         <div class="end2">
           <h1>Remeber</h1>
@@ -180,7 +235,7 @@
         </div>
         <div class="end4">
           <h1>The Company "EXCALIBUR"</h1>
-          <a href="file:///C:/Users/Lenovo/Desktop/newproject/information.html">About company</a>
+          <a href="http://localhost/tasks/priv/project.php">About company</a>
           <a href="">Customer</a>
           <a href="">Career in excalibur</a>
           <a href="">Corporate sales</a>
@@ -224,6 +279,31 @@
     </div>
 
     </footer>
- 
-</body>
+
+    <script type="text/javascript">
+    // The ymaps.ready() function will be called when
+    // all the API components are loaded and the DOM tree is generated.
+    ymaps.ready(init);
+    function init(){
+        // Creating the map.
+        var myMap = new ymaps.Map("map", {
+            // The map center coordinates.
+            // Default order: “latitude, longitude”.
+            // To not manually determine the map center coordinates,
+            // use the Coordinate detection tool.
+            center: [55.76, 37.64],
+            // Zoom level. Acceptable values:
+            // from 0 (the entire world) to 19.
+            zoom: 7
+        });
+    }
+    </script>
+
+
+
+
+
+
+
+  </body>
 </html>

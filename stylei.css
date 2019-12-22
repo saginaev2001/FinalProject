@@ -232,7 +232,12 @@ div#slider figure {
   margin-top: 15px;
   margin-right: 170px;
 }
-
+#news{
+  border:1px solid gray;
+  width:100px;
+  height:100px;
+}
+.qw{display:flex;}
 .inf{display: flex; justify-content: center; text-align: center;
 padding-top: 20px;padding-bottom: 20px;
 }
