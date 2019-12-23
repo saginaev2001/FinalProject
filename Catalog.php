@@ -102,9 +102,9 @@
       </div>
     <div class="path">
       <nav>
-        <a href="file:///C:/Users/Lenovo/Desktop/newproject/index.html">Menu</a>
+        <a href="http://localhost/tasks/index.php">Menu</a>
          > 
-        <a href="file:///C:/Users/Lenovo/Desktop/newproject/Catalog.html">Smartphone</a>
+        <a href="http://localhost/tasks/Catalog.php">Smartphone</a>
     </nav>
 
     </div>
@@ -298,7 +298,7 @@
           </div>
           <div class="end4">
             <h1>The Company "EXCALIBUR"</h1>
-            <a href="file:///C:/Users/Lenovo/Desktop/newproject/information.html">About company</a>
+            <a href="http://localhost/tasks/information.php">About company</a>
             <a href="">Customer</a>
             <a href="">Career in excalibur</a>
             <a href="">Corporate sales</a>

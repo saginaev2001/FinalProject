@@ -102,11 +102,11 @@
 
     <div class="path">
       <nav>
-        <a href="file:///C:/Users/Lenovo/Desktop/newproject/index.html">Menu</a>
+        <a href="http://localhost/tasks/index.php">Menu</a>
          > 
-        <a href="file:///C:/Users/Lenovo/Desktop/newproject/Catalog.html">Smartphone</a>
+        <a href="http://localhost/tasks/Catalog.php">Smartphone</a>
         >
-        <a href="file:///C:/Users/Lenovo/Desktop/newproject/product.html">Smartphone GSM Apple iPhone XS Max 256GB THX-6.5-12-4 Gold</a>
+        <a href="http://localhost/tasks/product.php">Smartphone GSM Apple iPhone XS Max 256GB THX-6.5-12-4 Gold</a>
     </nav>
 
 </div>
@@ -209,7 +209,7 @@
           </div>
           <div class="end4">
             <h1>The Company "EXCALIBUR"</h1>
-            <a href="file:///C:/Users/Lenovo/Desktop/newproject/information.html">About company</a>
+            <a href="http://localhost/tasks/information.php">About company</a>
             <a href="">Customer</a>
             <a href="">Career in excalibur</a>
             <a href="">Corporate sales</a>

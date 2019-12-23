@@ -162,7 +162,7 @@
         </div>
         <div class="super">
           <ul class="super1">
-            <a href="http://localhost/tasks/priv/catalog.php"><li><img src="img/x1.jpg" width="90%" height="90%" alt=""></li></a>
+            <a href="http://localhost/tasks/catalog.php"><li><img src="img/x1.jpg" width="90%" height="90%" alt=""></li></a>
             <a href=""><li><img src="img/x2.jpg" width="90%" height="90%"  alt=""></li></a>
             <a href=""><li><img src="img/x3.jpg" width="90%" height="90%"  alt=""></li></a>
             <a href=""><li><img src="img/x4.jpg" width="90%" height="90%"  alt=""></li></a>
@@ -235,7 +235,7 @@
         </div>
         <div class="end4">
           <h1>The Company "EXCALIBUR"</h1>
-          <a href="http://localhost/tasks/priv/project.php">About company</a>
+          <a href="http://localhost/tasks/information.php">About company</a>
           <a href="">Customer</a>
           <a href="">Career in excalibur</a>
           <a href="">Corporate sales</a>
